@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science and artificial intelligence 
 - 🌱 I’m currently learning AI towrds a bachelor degree
 - 💞️ I’m looking to collaborate on those interested in Video Understanding, AIGC, Agentic, LLM.
-- 📫 NEU (China)->Bachlor; IA.CAS->Master  
+- 📫 NEU (China)->Bachelor; IA.CAS->Master  
 
 <!---
 YuMingQian1234/YuMingQian1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
